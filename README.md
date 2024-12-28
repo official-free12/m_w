@@ -1,0 +1,6 @@
+# mt4行情源码+mt4crm+mt4app+服务端+授权工具 可做跟单和程序化交易 可定制MT4插件开发
+
+/***********************************************************************************<br>源码介绍<br>*MT4行情抓取工具，用vc++开发，源码全开放，速度飞快，功能稳定<br>*界面显示订阅代码的实时数据，直观，操作简单<br>*可以灵活修改、添加订阅代码，订阅需要的行情数据<br>*可用unifeed协议给MT4服务端做数据源，也可以自己修改数据输出格式<br>*可以自己开发新闻的推送功能，比如抓取国内的行业新闻，推送到MT4客户端<br>*可自己开发新增CTP行情、股票行情等其它行情，用作跟单，EA量化回测<br>*提供MT4开发文档，可自己开发插件，文档提供案例参考<br>*安装vs2024开发环境，可以指导源码编译<br>/***********************************************************************************<br>免费增送（仅供学习研究）<br>*MT4服务端+授权+管理工具，可以给服务端授权、改名字<br>*MT4客户端+授权，可以给客户端授权+改一堆资料<br>*MT4手机端+安卓apk+苹果ipa包+授权解密（有C++源码），可以修改、添新名字<br>*MT4CRM+DLL和服务端互通,MT4CRM源码全开源，dll注册使用，没源码<br>*根据开发文档，可自己开发跟单系统，EA程序化交易，量化回测等<br>/***********************************************************************************<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ccTAX" style="color: red;">https://mega-file.org/ccTAX</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
